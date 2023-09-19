@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Job Title": "Senior Data Scientist",
+			"Company Name": "Dunzo",
+			"Start Month": "04/2020",
+			"End Month": "06/2023"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Job Title": "Data Scientist",
+			"Company Name": "Cartesian Consulting",
+			"Start Month": "01/2018",
+			"End Month": "04/2020"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Job Title": "Summer Intern",
+			"Company Name": "Myntra",
+			"Start Month": "06/2016",
+			"End Month": "08/2016"
 		}
 	]
 }
